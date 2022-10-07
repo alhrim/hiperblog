@@ -6,5 +6,5 @@ Un blog para ejercitar el curso de git y github
 ## En este curso se ve de todo:
 . Todos los comandos de Git
 . El flujo de trabajo de Github
-.El verdadero amor por las buena prácticas
-Trucos muy locos del profesor
+. El verdadero amor por las buena prácticas
+. Trucos muy locos del profesor
