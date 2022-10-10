@@ -11,3 +11,4 @@ Un blog para ejercitar el curso de git y github
 . Trucos muy locos del profesor
 Creado por el increíble PLatzi Team
 .Incluye ejemplos en windows, linux y mac
+.Dosnible para todas las edades
