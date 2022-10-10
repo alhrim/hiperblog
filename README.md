@@ -10,3 +10,4 @@ Un blog para ejercitar el curso de git y github
 . El verdadero amor por las buena prácticas
 . Trucos muy locos del profesor
 Creado por el increíble PLatzi Team
+.Incluye ejemplos en windows, linux y mac
